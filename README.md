@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ysy970923
+- 👋 Hi, I’m @sangyoon
 - 👀 I’m interested in AI, Federated Learning, Metaverse, Blockchain, Decentralized Finance
 - 🌱 I’m currently in the master's course in Seoul National University for Electrical and Computer Engineering
 - 📫 How to reach me ysy970923@gmail.com or sangyoonyu@snu.ac.kr
